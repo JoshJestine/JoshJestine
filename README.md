@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshJestine
-- 👀 I’m interested in everything tech related
+- 👀 I’m interested in everything tech
 - 🌱 I’m currently pursing my Bachelors' of Engineering.
 
 <!---
