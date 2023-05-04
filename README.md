@@ -1,9 +1,9 @@
 ## 🚀 About Me
-👋 Hi, I’m @JoshJestine
+👋 Hi, I’m JoshJestine
 
 👀 I’m interested in everything tech
 
-🌱 I’m currently pursing my Bachelors' of Engineering.
+🌱 I’m currently pursuing my Bachelors' of Engineering in Information Technology with a Honors' degree in CyberSecurity.
 
 <!---
 JoshJestine/JoshJestine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
