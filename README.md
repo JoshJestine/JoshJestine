@@ -3,7 +3,7 @@
 
 👀 I’m interested in everything tech
 
-🌱 I’m currently pursuing my Bachelors' of Engineering in Information Technology with a Honors' degree in CyberSecurity.
+🌱 I’m currently pursuing my Master's of Science in Artificial Intelligence
 
 <!---
 JoshJestine/JoshJestine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
