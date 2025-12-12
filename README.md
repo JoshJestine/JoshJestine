@@ -1,20 +1,36 @@
-## 🚀 About Me
-👋 Hi, I’m JoshJestine
+# Welcome to My GitHub Profile
 
-👀 I’m interested in everything tech
+My name is Josh Jestine. I am an AI graduate student, software developer, and machine learning practitioner with a strong interest in applied artificial intelligence, system design, and data-driven engineering. My work spans reinforcement learning, computer vision, predictive modeling, automation pipelines, and classical as well as deep-learning–based generative systems.
 
-🌱 I’m currently pursuing my Master's of Science in Artificial Intelligence
+I enjoy building intelligent systems that solve real-world problems, studying the mathematical foundations of machine learning, and exploring modern tools that push the boundaries of automation and human–computer interaction.
+
+---
+
+## About Me
+
+I am currently pursuing a Master of Science in Artificial Intelligence at Northeastern University, where my academic focus includes machine learning, unsupervised learning, algorithms, AI for human–computer interaction, and modern programming paradigms. I previously completed a Bachelor of Engineering in Information Technology with honors in Cybersecurity from the University of Mumbai.
+
+My experience includes developing prediction systems, automation pipelines, and optimization algorithms during my technical internship at Express Elevators. I have also held a leadership role as Co-founder of the Google Developer Student Club at SFIT, where I organized hackathons, delivered technical workshops, and contributed to AI/ML education initiatives.
+
+My long-term goal is to design AI systems that integrate intelligent decision-making with scalable engineering, enabling automation across industries, research, and creative domains.
+
+
+---
+
+## GitHub Statistics
+
+[![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshjestine&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjestine&layout=compact&theme=default&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Connect
+
+LinkedIn: [linkedin.com/in/joshjestine](https://www.linkedin.com/in/joshjestine)  
+GitHub: [github.com/joshjestine](https://www.github.com/joshjestine)  
 
 <!---
 JoshJestine/JoshJestine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-[![Josh's Github stats](https://github-readme-stats.vercel.app/api?username=joshjestine&count_private=true&show_icons=true&theme=radical)](https://github.com/joshjestine/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjestine&show_icons=true&theme=radical)](https://github.com/joshjestine/github-readme-stats)
