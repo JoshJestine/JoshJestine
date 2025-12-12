@@ -8,22 +8,7 @@ I enjoy building intelligent systems that solve real-world problems, studying th
 
 ## About Me
 
-I am currently pursuing a Master of Science in Artificial Intelligence at Northeastern University, where my academic focus includes machine learning, unsupervised learning, algorithms, AI for human–computer interaction, and modern programming paradigms. I previously completed a Bachelor of Engineering in Information Technology with honors in Cybersecurity from the University of Mumbai.
-
-My experience includes developing prediction systems, automation pipelines, and optimization algorithms during my technical internship at Express Elevators. I have also held a leadership role as Co-founder of the Google Developer Student Club at SFIT, where I organized hackathons, delivered technical workshops, and contributed to AI/ML education initiatives.
-
-My long-term goal is to design AI systems that integrate intelligent decision-making with scalable engineering, enabling automation across industries, research, and creative domains.
-
-
----
-
-## GitHub Statistics
-
-[![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshjestine&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjestine&layout=compact&theme=default&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
----
+I am currently pursuing a Master of Science in Artificial Intelligence at Northeastern University, where my academic focus includes machine learning, unsupervised learning, algorithms, AI for human–computer interaction, and modern programming paradigms. My long-term goal is to design AI systems that integrate intelligent decision-making with scalable engineering, enabling automation across industries, research, and creative domains.
 
 ## Connect
 
