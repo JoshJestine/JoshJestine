@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-My name is Josh Jestine. I am an AI graduate student, software developer, and machine learning practitioner with a strong interest in applied artificial intelligence, system design, and data-driven engineering. My work spans reinforcement learning, computer vision, predictive modeling, automation pipelines, and classical as well as deep-learning–based generative systems.
+I am an AI graduate student, software developer, and machine learning practitioner with a strong interest in applied artificial intelligence, system design, and data-driven engineering. My work spans reinforcement learning, computer vision, predictive modeling, automation pipelines, and classical as well as deep-learning–based generative systems.
 
 I enjoy building intelligent systems that solve real-world problems, studying the mathematical foundations of machine learning, and exploring modern tools that push the boundaries of automation and human–computer interaction.
 
