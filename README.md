@@ -13,7 +13,6 @@ I am currently pursuing a Master of Science in Artificial Intelligence at Northe
 ## Connect
 
 LinkedIn: [linkedin.com/in/joshjestine](https://www.linkedin.com/in/joshjestine)  
-GitHub: [github.com/joshjestine](https://www.github.com/joshjestine)  
 
 <!---
 JoshJestine/JoshJestine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
